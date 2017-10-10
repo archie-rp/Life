@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "418060255544",
+    "firebase_url": "https://life-ce6c6.firebaseio.com",
+    "project_id": "life-ce6c6",
+    "storage_bucket": "life-ce6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418060255544:android:069b5b0cac05a07b",
+        "android_client_info": {
+          "package_name": "calendar_team.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418060255544-4544o6a33pehrqjfph3vl8ng43imndnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calendar_team.life",
+            "certificate_hash": "eadfe8fd30a7dbf9bc9301da6672b893a87aaa7b"
+          }
+        },
+        {
+          "client_id": "418060255544-umusruslpv4hoka229s2jt8qhqf0j8ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoq1hHcOSqy8bX9jC3U5O8QNFSN1Vt8XI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418060255544-umusruslpv4hoka229s2jt8qhqf0j8ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
